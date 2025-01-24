@@ -1,6 +1,6 @@
-# My Lemon Gallery
+# 🍋Uri Ziv's Lemon Gallery🍋
 
-Welcome to **My Lemon Gallery**! This is a video gallery dedicated to showcasing the best memes and music mashups.
+Welcome to **My Lemon Gallery**! This is a video gallery dedicated to showcasing my best memes and music mashups.
 
 ## Features
 
